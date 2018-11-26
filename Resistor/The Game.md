@@ -11,6 +11,7 @@ In this group project I was in charge of designing the enemies.
 ### Welder
 
 The welder is a melee enemy that attacks when it gets within range of the player.
+![alt text](https://github.com/TjMasta/Portfolio/blob/master/Resistor/images/Bomber.png "Background")
 
 ### Security Bot
 
