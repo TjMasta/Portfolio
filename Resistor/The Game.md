@@ -1,4 +1,4 @@
-#Resistor
+# Resistor
 
 ## Gameplay
 
