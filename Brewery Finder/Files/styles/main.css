@@ -1,0 +1,72 @@
+html
+{
+    background-image: url(../media/background.jpg);
+}
+p
+{
+    font-family: sans-serif;
+}
+
+header
+{
+    background-color: tan;
+    width: 50%;
+    margin: auto;
+    border: 1px solid grey; 
+}
+h1
+{
+    text-align: center;
+    font-family: monospace;
+    font-size: 2.8em;
+}
+#searchbox
+{
+    text-align: center;
+}
+
+
+#stateDropDown
+{
+    float: left;
+    padding-left: 15%;
+}
+#stateDropDown select
+{
+    background-color: darkgray;
+    color: white;
+    padding: 1px 10px;
+    border: 1px solid transparent;
+}
+
+#radioButtons
+{
+    float: right;
+    padding-right: 15%;
+    font-family: sans-serif;
+}
+
+#searchButton
+{
+    float: none;
+    clear: both;
+    text-align: center;
+}
+#search
+{
+    border: none;
+    padding: 10px 24px;
+    text-decoration: none;
+    margin: 10px;
+    background-color: limegreen;
+    font-size: 1.3em;
+}
+
+#results
+{
+    width: 50%;
+    margin: auto;
+    background-color: tan;
+    padding-top: 5px;
+    border: 1px solid grey; 
+}
