@@ -1,0 +1,5 @@
+In the game Can't Stop you will have to keep running to escape the robots trying to imprison you. You will travel across different areas doing whatever it takes to get out alive. 
+
+I got all the content and the idea for what I was going to do in github, then transferred it over to html. I structured the content in a simple style and nice design. I got some help from w3schools to do some html and css, and from Kenney for the images. I structured my content with the tags available and made them consistent. I used one id to identify which the user was on in the nav, one class to seperate the h2's in the proposal from other h2's. The design is able to support screens with a width of 480px or greater.
+
+I started with making the general controls and scenes. Then I made 2-D arrays to tile each level that will be read and set all the enemies, walls, and the checkpoint. The code is function and doesn't throw any erros, the design is nice and simple, the interaction is explained well, all images are properly optimized, and the code conventions are followed. Images provided from Open Game Art. 
